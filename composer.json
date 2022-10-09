@@ -1,0 +1,19 @@
+{
+    "name": "inador/autenticador",
+    "description": "controlador de autenticacion",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Inador\\Autenticador\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andres Patiño",
+            "email": "andres.p.e.nascar@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
